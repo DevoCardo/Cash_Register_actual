@@ -140,7 +140,7 @@ namespace Cash_Register
             fg.DrawString(Convert.ToString(donut), receiptFont, blackBrush, 500, 240);
             fg.DrawString(Convert.ToString(biscuit), receiptFont, blackBrush, 500, 280);
             fg.DrawString("MacCafe", cafeFont, blackBrush, 350, 10);
-            fg.DrawString("Order #5142, 12/5/2014", cafeFont, blackBrush, 420, 10);
+            fg.DrawString("Order #5142, 12/5/2014", cafeFont, blackBrush, 420, 10); 
 
             //Prints price according to each item
             /* sCReceipt.Visible = true;
