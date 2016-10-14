@@ -136,7 +136,7 @@ namespace Cash_Register
             fg.DrawString(Convert.ToString(medCof), receiptFont, blackBrush, 500, 80);
             fg.DrawString(Convert.ToString(largeCof), receiptFont, blackBrush, 500, 120);
             fg.DrawString(Convert.ToString(smallTea), receiptFont, blackBrush, 500, 160);
-            fg.DrawString(Convert.ToString(largeTea), receiptFont, blackBrush, 500, 200);
+            fg.DrawString(Convert.ToString(largeTea), receiptFont, blackBrush, 500, 200); 
             fg.DrawString(Convert.ToString(donut), receiptFont, blackBrush, 500, 240);
             fg.DrawString(Convert.ToString(biscuit), receiptFont, blackBrush, 500, 280);
             fg.DrawString("MacCafe", cafeFont, blackBrush, 350, 10);
